@@ -1,4 +1,2 @@
 # System-Software-Academic
-8086 Architecture &amp; Compiler
-
-Academic assignments @ SJSU !
+This is a model of a 8086 Architecture &amp; Compiler. In other words, a simpleCPU and a programming language for running human understandable code on the CPU. 
